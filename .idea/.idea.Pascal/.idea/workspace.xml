@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c5bd98b9-7d01-4251-b6ba-99c3996b0e80" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../ProjectPanic/Assets/Scripts/GunController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DatabaseConnection.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../ProjectPanic/Assets/Scripts/EnemyController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TouchHandler_Editor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/camSizeCon.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Slider_Ctrl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/NotDestroyGameObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/button_Editor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Editor/TMPro_FontAssetCreatorWindow.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MainMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../ProjectPanic/Assets/Scripts/rhythmParser.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../ProjectPanic/Assets/Scripts/NormalBullet.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LoadingSceneManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TestDistance.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/camSizeCon.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ComboAvail.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DebugAvail.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/elAvail.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LoadingSceneManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NotDestroyGameObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PanAvail.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Result.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SceneResultConrol.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ScoreAvailable.cs" />
+        <option value="$PROJECT_DIR$/Assets/abc.cs" />
+        <option value="$PROJECT_DIR$/Assets/select_btn.cs" />
+        <option value="$PROJECT_DIR$/Assets/SetActive.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DatabaseConnection.cs" />
+        <option value="$PROJECT_DIR$/Assets/SetScore.cs" />
+        <option value="$PROJECT_DIR$/Assets/TestDistance.cs" />
+        <option value="$PROJECT_DIR$/Assets/Resources/Emulisy/12.txt" />
+        <option value="$PROJECT_DIR$/Assets/Trace_Trail.cs" />
+        <option value="$PROJECT_DIR$/Assets/Trace_Pad.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/touchHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Trace_touch.cs" />
+        <option value="$PROJECT_DIR$/Assets/Resources/Emulisy/10.txt" />
+        <option value="$PROJECT_DIR$/Assets/Resources/Emulisy/00.txt" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Music.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MainMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Audio_Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Slider_Ctrl.cs" />
+        <option value="$PROJECT_DIR$/Assets/TouchHandler_Editor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ButtonOnClick.cs" />
+        <option value="$PROJECT_DIR$/Assets/InputField_Editor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TimeHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Editor_Manager.cs" />
+        <option value="$PROJECT_DIR$/Assets/button_Editor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GetSong.cs" />
+        <option value="$PROJECT_DIR$/Assets/Resources/Paradise/10.txt" />
+        <option value="$PROJECT_DIR$/Assets/Resources/Paradise/00.txt" />
+        <option value="$PROJECT_DIR$/Assets/Resources/Emulisy/01.txt" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/button.cs" />
+        <option value="$PROJECT_DIR$/Assets/Setting_Offset.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Trace_touch.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Trace_Trail.cs" />
+        <option value="$PROJECT_DIR$/Assets/Resources/Paradise/01.txt" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Trace_Pad.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RhythmParser.cs" />
+        <option value="$PROJECT_DIR$/Assets/Resources/Paradise/11.txt" />
+        <option value="$PROJECT_DIR$/Assets/Resources/Paradise/12.txt" />
+        <option value="$PROJECT_DIR$/Assets/Resources/Paradise/02.txt" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/abc.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SongListSelect.cs" />
+        <option value="C:/Program Files/Unity/Hub/Editor/2019.2.11f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/VertexModifiers/Shadow.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TestDistance.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TpwriD2F8K93hspwWfeARnJb6E" />
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor &amp; Play">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5bd98b9-7d01-4251-b6ba-99c3996b0e80" name="Default Changelist" comment="" />
+      <created>1574170547828</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574170547828</updated>
+      <workItem from="1574170557719" duration="353000" />
+      <workItem from="1574777088276" duration="316000" />
+      <workItem from="1575123074845" duration="7182000" />
+      <workItem from="1575286048438" duration="1727000" />
+      <workItem from="1576653545666" duration="2533000" />
+      <workItem from="1576715665429" duration="21913000" />
+      <workItem from="1576747127445" duration="401000" />
+      <workItem from="1576747686717" duration="1298000" />
+      <workItem from="1576753375248" duration="5987000" />
+      <workItem from="1576799230770" duration="13178000" />
+      <workItem from="1576919727726" duration="8536000" />
+      <workItem from="1577014123979" duration="24619000" />
+      <workItem from="1577145147688" duration="11708000" />
+      <workItem from="1577319687582" duration="30149000" />
+      <workItem from="1577370841524" duration="9128000" />
+      <workItem from="1577498357045" duration="4489000" />
+      <workItem from="1577519127957" duration="1223000" />
+      <workItem from="1577520477697" duration="256000" />
+      <workItem from="1577520790421" duration="3025000" />
+      <workItem from="1577528883683" duration="3959000" />
+      <workItem from="1577553291503" duration="21600000" />
+      <workItem from="1577663499293" duration="1981000" />
+      <workItem from="1577671730616" duration="858000" />
+      <workItem from="1577689300971" duration="8477000" />
+      <workItem from="1577925659931" duration="654000" />
+      <workItem from="1577927710552" duration="57000" />
+      <workItem from="1577928162131" duration="19610000" />
+      <workItem from="1578280427093" duration="24959000" />
+      <workItem from="1578383526583" duration="1286000" />
+      <workItem from="1578407762342" duration="7660000" />
+      <workItem from="1578652869091" duration="68000" />
+      <workItem from="1582533729707" duration="238000" />
+      <workItem from="1582534063242" duration="1978000" />
+      <workItem from="1582542414073" duration="1420000" />
+      <workItem from="1582632251217" duration="602000" />
+      <workItem from="1587794798309" duration="210000" />
+      <workItem from="1587796970054" duration="538000" />
+      <workItem from="1591432243147" duration="290000" />
+      <workItem from="1591433638285" duration="3000" />
+      <workItem from="1592298990939" duration="1646000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

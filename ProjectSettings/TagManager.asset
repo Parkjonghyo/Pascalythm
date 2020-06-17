@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - UniqueGameManager
+  - GameManager
+  - Audio_Source
+  - Result
+  - GamePad
+  - LoadingSceneManager
+  - Trace
+  - Traces
+  - Traces2
+  - Trace_End
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 446420081
+    locked: 0
+  - name: Button
+    uniqueID: 3530131959
+    locked: 0
+  - name: ButtonButton
+    uniqueID: 3277343375
+    locked: 0
+  - name: Trace
+    uniqueID: 391348817
+    locked: 0
+  - name: PausedScreen
+    uniqueID: 1342147857
+    locked: 0
